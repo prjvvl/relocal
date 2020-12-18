@@ -1,0 +1,43 @@
+<resources>
+
+    <array name="Category">
+        <item>Grocery</item>
+        <item>Electronics appliances</item>
+        <item>Cloths</item>
+        <item>Furniture</item>
+        <item>Cosmetics</item>
+        <item>Gym</item>
+        <item>Medical</item>
+        <item>Automobile</item>
+        <item>Parking</item>
+        <item>Books</item>
+        <item>Hotel</item>
+    </array>
+
+    <string name="firebase_users">User</string>
+    <string name="firebase_service">Service</string>
+    <string name="firebase_product">Product</string>
+    <string name="firebase_location">Location</string>
+    <string name="firebase_message">Message</string>
+    <string name="firebase_chat">Chat</string>
+    <string name="firebase_rater">Rater</string>
+    <string name="firebase_liked_by">LikedBy</string>
+
+    <string name="service_id">ServiceID</string>
+    <string name="user_id">UserID</string>
+    <string name="product_id">ProductID</string>
+    <string name="receiver_id">ReceiverID</string>
+
+    <string name="app_name">localhost</string>
+
+    <string name="show_fragment">showFragment</string>
+    <string name="home_fragment">Home</string>
+    <string name="places_fragment">Places</string>
+    <string name="chat_fragment">Chat</string>
+    <string name="user_fragment">User</string>
+
+    <string name="google_maps_API_key">AIzaSyBlGxHqNE8Y-earGj31yVxKnXY4IDkaIWs</string>
+    <string name="SIHrelese">C8:03:A1:2E:29:80:79:7D:60:B5:35:81:49:DD:69:74:F7:0B:22:33</string>
+    // https://stackoverflow.com/questions/33701865/release-apk-file-not-showing-google-maps
+    <string name="SIHbase">BF:B1:FB:95:99:0E:60:15:E5:1E:EA:AB:65:C0:76:AC:2F:AD:12:51</string>
+</resources>
